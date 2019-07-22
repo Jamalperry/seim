@@ -1,0 +1,33 @@
+body {
+	background-color: pink;
+}
+
+h1 {
+	mardiin-top: 10px;
+	margin-bottom: 30px;
+}
+
+p {
+	background-color: #FCE4EC;
+	padding: 9px;
+	border-radius: 7px;
+	}
+	
+b {
+	color:  #F06292;
+}
+
+footer a {
+	color: pink;
+}
+
+.press1 {
+	color: pink;
+	margin-bottom: 20px;
+	font-family: Georgia;
+	font-kerning: normal;
+	}
+	
+.press1 button {
+	color: pink;
+	}
