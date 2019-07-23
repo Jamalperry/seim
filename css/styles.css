@@ -3,13 +3,17 @@ body {
 }
 
 h1 {
-	mardiin-top: 10px;
+	mardin-top: 10px;
 	margin-bottom: 30px;
 }
 
+h3 a {
+	color: pink;
+	}
+	
 p {
 	background-color: #FCE4EC;
-	padding: 9px;
+	padding: 5px;
 	border-radius: 7px;
 	}
 	
@@ -31,3 +35,8 @@ footer a {
 .press1 button {
 	color: pink;
 	}
+	
+img {
+	width: 20%;
+	height: 20%;
+}

@@ -1,3 +1,3 @@
-function myAbstinance() {
-	document.getElementById("forn").innerHTML = "hi";
+function myFunction() {
+	document.getElementById("demo").innerHTML = "hi";
 	}
